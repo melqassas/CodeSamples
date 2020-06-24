@@ -1,5 +1,5 @@
 # SharePoint Lookup Field Operations In SSOM C#
-This solution helps you to learn how to
+This solution helps you to learn 
 
 - How to Create SharePoint list with default data via Visual Studi?
 - How to Set a web part to a specific page in SharePoint Site?

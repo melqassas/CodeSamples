@@ -43,4 +43,4 @@ The solution is tested on SharePoint 2013 environment, however, it can be used f
 
 -------------------
 
-**Have a Question, Please ask [deBUG.to](https://deBUG.to) Community** | **[Mohamed El-Qassas](https://devoworx.com)**
+**Have a Question, Please ask it at [deBUG.to](https://deBUG.to) Community** | **[Mohamed El-Qassas](https://devoworx.com)**

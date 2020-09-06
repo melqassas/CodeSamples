@@ -1,4 +1,7 @@
-# SharePoint Lookup Field Operations In SSOM C#
+![Get and set SharePoint lookup field Value  programmatically](https://user-images.githubusercontent.com/49816567/92329952-c679d580-f073-11ea-820b-04f8bbf0b8ea.png)
+
+
+# [SharePoint Lookup Field Operations In SSOM C#](https://spgeeks.devoworx.com/sharepoint-lookup-field-programmatically/)
 This solution helps you to learn 
 
 - How to Create SharePoint list with default data via Visual Studi?
@@ -8,7 +11,7 @@ This solution helps you to learn
 ![Get and Set Lookup Field Single   Multiple values Using SSOM C#](https://user-images.githubusercontent.com/49816567/83959289-d7a02400-a883-11ea-8aa5-dc28524fea9e.gif)
 
 
-#How to use SharePoint Lookup Field Operations In SSOM CSharp solution?
+# How to use SharePoint Lookup Field Operations In SSOM CSharp solution?
 - Download & extract the attached solution.
 - Open the extracted solution via Visual Studio.
 - Change the Site URL in Project Properties.
@@ -22,6 +25,8 @@ This solution helps you to learn
 
 - Click on the "LookupField" List, you would note that the Lookup Web Part is auto-added to the List AllItems page.
 - You would be able now to Set and Get the Lookup Field values.
+
+> # Read the details at **[Work with SharePoint Lookup Field Programmatically](https://spgeeks.devoworx.com/sharepoint-lookup-field-programmatically/)**
 
 # Set SharePoint Lookup Field (Single & Multiple) Values
 This is a demo to set a SharePoint Lookup Field (Single & Multiple) Values.
@@ -41,6 +46,13 @@ The solution is tested on SharePoint 2013 environment, however, it can be used f
 
 > **PS:** this solution is migrated from [TechNet Gallery](https://gallery.technet.microsoft.com/SharePoint-Lookup-Field-95a29724)
 
+# See Also
+- [Bind dropdown from SharePoint List in C#.](https://spgeeks.devoworx.com/bind-a-dropdown-from-sharepoint-list-c/)
+- [Get and Set a SharePoint Multiple Lookup Field Value Using Server Object Model C#.](https://spgeeks.devoworx.com/get-and-set-a-sharepoint-multiple-lookup-field-value-using-server-object-model-c/)
+- [How to get Title and URL of SharePoint Page via Object Model?](https://spgeeks.devoworx.com/how-to-get-title-url/)
+- [Get and Set a SharePoint URL Field Value Using Server Object Model C#.](https://spgeeks.devoworx.com/get-and-set-a-sharepoint-url-field-value-using-server-object-model-c/)
+- [Get and Set a SharePoint Multiple Choice Field Value Using Server Object Model C#.](https://spgeeks.devoworx.com/get-and-set-a-sharepoint-multiple-choice-field-value-using-server-object-model-c/)
+- [Retrieve a SharePoint Choice Field Value Using Server Object Model C#.](https://spgeeks.devoworx.com/get-sharepoint-choice-field-value-in-c/)
 -------------------
 
 **Have a Question? Please, ask it at [deBUG.to](https://deBUG.to) Community** | **[Mohamed El-Qassas](https://devoworx.com)**

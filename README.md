@@ -1,7 +1,11 @@
-![CSharp Code for SharePoint](https://user-images.githubusercontent.com/49816567/83959230-15e91380-a883-11ea-893a-03a897833e72.png)
+![CSharp Code for SharePoint](https://user-images.githubusercontent.com/49816567/100587755-0adae180-3302-11eb-8c6d-fbcdd3ec5a61.png)
 
-In this repoistory, you can find C# code samples for SharePoint Server.
-- [SharePoint Lookup Field Operations In SSOM C#](https://github.com/melqassas/CSharepforSharePoint/tree/master/SharePoint%20Lookup%20Field%20Operations%20In%20SSOM%20CSharp)
+In this repoistory, you can find well-written C# code samples and SQL queries for 
+
+- SharePoint Server 2019.
+- SharePoint Server 2016.
+- SharePoint Server 2013.
+
 
 --------------
  

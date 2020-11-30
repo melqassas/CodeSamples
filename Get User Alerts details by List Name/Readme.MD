@@ -1,7 +1,7 @@
 ![Get User Alert Details in SharePoint 2016](https://user-images.githubusercontent.com/49816567/100623370-1eeb0700-3333-11eb-98b6-b8e447c34666.png)
 
 
-# [Get All User Alerts By List Name in SharePoint 2016](https://debug.to/890/power-bi-measure-based-on-slicer)
+# [Get All User Alerts By List Name in SharePoint 2016](https://spgeeks.devoworx.com/sharepoint-2016-get-all-user-alerts/)
 
 In this folder, we have provieded SQL Query to get the the user alerts details by list name from SharePoint content database like
 - Alert Title.
@@ -20,7 +20,7 @@ In this folder, we have provieded SQL Query to get the the user alerts details b
 Besides, the SQL query, we have provided C# SSOM code sample to get all user alerts by list name Programmatically .
 
   
-> For more details, Please, Check **[SharePoint 2016 Get All User Alerts By List Name](https://spgeeks.devoworx.com/sharepoint-2016-get-all-user-alerts)**
+> For more details, Please, Check **[SharePoint 2016 Get All User Alerts By List Name](https://spgeeks.devoworx.com/sharepoint-2016-get-all-user-alerts/)**
 
 ## Applies To
 

@@ -1,6 +1,6 @@
 ![Get SQL Server Info Using SERVERPROPERTY](https://user-images.githubusercontent.com/49816567/101164972-e9059580-3646-11eb-89c4-c3859082f412.png)
 
-# [Get SQL Server Detailed Info using T-SQL]()
+# [Get SQL Server Detailed Info using T-SQL](https://spgeeks.devoworx.com/get-sql-server-info-using-serverproperty/)
 
 This SQL query would help to detect the SQL Server information using ServerProperty()
 
@@ -42,7 +42,7 @@ This SQL query would help to detect the SQL Server information using ServerPrope
 
 ![get-sql-server-2016-information](https://user-images.githubusercontent.com/49816567/101165038-09355480-3647-11eb-9a89-18fc9f532966.gif)
 
-> For more details, please check **[How to Get SQL Server Info Using SERVERPROPERTY?]()**
+> For more details, please check **[How to Get SQL Server Info Using SERVERPROPERTY?](https://spgeeks.devoworx.com/get-sql-server-info-using-serverproperty/)**
 
 ## Applies To
 

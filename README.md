@@ -1,11 +1,12 @@
-![CSharp Code for SharePoint](https://user-images.githubusercontent.com/49816567/100587755-0adae180-3302-11eb-8c6d-fbcdd3ec5a61.png)
+![CSharp Code for SharePoint](https://user-images.githubusercontent.com/49816567/101163948-7647ea80-3645-11eb-928a-999e7aa2c13f.png)
 
-In this repoistory, you can find well-written C# code samples and SQL queries for 
+In this repoistory, you can find well-written and tested code samples for 
 
-- SharePoint Server 2019.
-- SharePoint Server 2016.
-- SharePoint Server 2013.
-
+- C#.
+- SharePoint.
+- SQL Server.
+- PowerShell.
+- and MORE.
 
 --------------
  

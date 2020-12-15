@@ -1,0 +1,57 @@
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.PS2016_Edition.resources
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\SharePoint_Edition_Detection.csproj.GenerateResource.Cache
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.exe
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\bin\Debug\ProjectServer2016_AutoInstaller.exe.config
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\bin\Debug\ProjectServer2016_AutoInstaller.exe.manifest
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\bin\Debug\ProjectServer2016_AutoInstaller.application
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\bin\Debug\ProjectServer2016_AutoInstaller.exe
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\bin\Debug\ProjectServer2016_AutoInstaller.pdb
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.Properties.Resources.resources
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.exe.manifest
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.application
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.pdb
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.Properties.Resources.resources
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.csproj.GenerateResource.Cache
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.exe.config
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.exe.manifest
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.application
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.exe
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.pdb
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.exe.manifest
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.application
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.exe
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.pdb
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.PS2016_Edition.resources
+C:\Users\spfarm\Desktop\WikiGallary\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.csprojResolveAssemblyReference.cache
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.exe.config
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.exe
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.pdb
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.exe.manifest
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.application
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.exe
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.pdb
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.Properties.Resources.resources
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.PS2016_Edition.resources
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.csproj.GenerateResource.Cache
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.exe.manifest
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.application
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.csprojResolveAssemblyReference.cache
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mqassas\Desktop\SharePoint Edition Detection\bin\Debug\HtmlAgilityPack.xml
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.exe.config
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.exe
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.pdb
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.exe.config
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.exe
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.pdb
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.Properties.Resources.resources
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.PS2016_Edition.resources
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.csproj.GenerateResource.Cache
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.exe.manifest
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.application
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.exe
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\bin\Debug\SharePoint_Edition_Detection.pdb
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.exe.manifest
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.application
+C:\Users\spfarm\Desktop\WikiGallary\Final - SharePoint Edition Detection\old\SP 2016\SharePoint Edition Detection\obj\Debug\SharePoint_Edition_Detection.csprojResolveAssemblyReference.cache

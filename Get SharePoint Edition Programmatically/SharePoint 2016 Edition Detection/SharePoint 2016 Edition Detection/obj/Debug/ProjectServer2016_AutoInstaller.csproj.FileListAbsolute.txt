@@ -1,0 +1,16 @@
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\bin\Debug\ProjectServer2016_AutoInstaller.exe.config
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\bin\Debug\ProjectServer2016_AutoInstaller.exe
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\bin\Debug\ProjectServer2016_AutoInstaller.pdb
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.Form1.resources
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.PS2016_Home.resources
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.Properties.Resources.resources
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.PS2016_Wizard.resources
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.csproj.GenerateResource.Cache
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.exe
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.pdb
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.csprojResolveAssemblyReference.cache
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\bin\Debug\ProjectServer2016_AutoInstaller.exe.manifest
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\bin\Debug\ProjectServer2016_AutoInstaller.application
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.exe.manifest
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.application
+C:\Users\spfarm\documents\visual studio 2013\Projects\ProjectServer2016_AutoInstaller\obj\Debug\ProjectServer2016_AutoInstaller.PS2016_Edition.resources
